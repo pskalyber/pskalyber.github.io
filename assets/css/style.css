@@ -1,0 +1,26 @@
+.profile-teaser .name {
+    font-size: 3rem;
+}
+
+.main-wrapper .container {
+    max-width: 880px;
+}
+
+.profile-teaser .tagline {
+    font-size: 1.5rem;
+    font-weight: 300;
+}
+
+.about-section p, .about-section li {
+    font-size: 1rem;
+}
+
+article.about-section{
+    padding-top: 0rem !important;
+}
+
+@media (min-width: 1200px) {
+    .blog-list .post-thumb {
+        max-width: 200px;
+    }
+}
